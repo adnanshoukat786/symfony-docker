@@ -8,7 +8,7 @@ class LuckyController
 {
     public function number()
     {
-        $number = random_int(0, 100);
+        $number = random_int(0, 200);
         $hello = 'I am hello test';
         return new Response(
             '<html><body>Lucky number: '.$number.'</body></html>'
