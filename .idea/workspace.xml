@@ -20,6 +20,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="/var/www/laravel-backoffice-example" />
   </component>
+  <component name="PhpDebugGeneral" listening_started="true" />
   <component name="PhpServers">
     <servers>
       <server host="localhost" id="d358a83f-7bac-4339-a413-4d7f731f189c" name="debugger" use_path_mappings="true">
@@ -165,7 +166,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Docker.laravel-backoffice-example.postgres: Compose Deployment">
+  <component name="RunManager" selected="PHP Remote Debug.PHP Debug">
     <configuration name="PHP Debug" type="PhpRemoteDebugRunConfigurationType" factoryName="PHP Remote Debug" filter_connections="FILTER" server_name="debugger" session_id="PHPSTORM">
       <method v="2" />
     </configuration>
